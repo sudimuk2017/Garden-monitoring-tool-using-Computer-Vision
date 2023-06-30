@@ -1,4 +1,4 @@
 # Garden-monitoring-tool-using-Computer-Vision
 
-## Build a KNN models
-## Build a deep learning model
+** Build a KNN model **
+** Build a deep-learning model **
